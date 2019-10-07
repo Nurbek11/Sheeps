@@ -1,0 +1,67 @@
+.name {
+    display: inline-block;
+    width: 30%;
+    height: 50px;
+    background: url('/img/sheep.png') no-repeat;
+    background-size: contain;
+}
+
+.span {
+    padding-left: 780px
+}
+
+#day {
+    padding-left: 1050px;
+    display: flex;
+    margin-top: -30px;
+}
+
+#command {
+
+    display: flex;
+    margin-top: -45px;
+    width: 100px;
+    margin-left: 300px;
+}
+
+.input {
+    display: flex;
+    margin-top: -28px;
+
+    margin-left: 425px;
+}
+
+.otchet {
+    font-family: 'Mansalva', cursive;
+}
+
+.href {
+    display: flex;
+    margin-top: -75px;
+    margin-left: 1000px;
+    font-size: 20px;
+}
+
+.zagon {
+   border-style: double;
+    overflow-y: scroll;
+    height: 12em;
+
+}
+
+form {
+    margin: 2em auto;
+}
+
+form select {
+    padding: 0.1em 1em;
+}
+
+.info-block p {
+    padding: 1em;
+}
+
+body {
+    background-color: #FFFFE0;
+    font-family: 'Mansalva', cursive;
+}
